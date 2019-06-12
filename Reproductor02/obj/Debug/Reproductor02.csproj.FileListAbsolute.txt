@@ -1,0 +1,34 @@
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Reproductor02.exe.config
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Reproductor02.exe
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Reproductor02.pdb
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Bunifu_UI_v1.52.dll
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.csprojResolveAssemblyReference.cache
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.Form1.resources
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.Properties.Resources.resources
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.csproj.GenerateResource.Cache
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.exe
+e:\usuarios\geovany\documentos\visual studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.pdb
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Interop.WMPLib.dll
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\AxInterop.WMPLib.dll
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.csproj.ResolveComReference.cache
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\taglib-sharp.dll
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Interop.WMPLib.dll
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\AxInterop.WMPLib.dll
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\MetroFramework.dll
+E:\Usuarios\Geovany\Documentos\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.Guardar.resources
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Reproductor02.exe.config
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Interop.WMPLib.dll
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.csproj.ResolveComReference.cache
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.exe
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.pdb
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Reproductor02.exe
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Reproductor02.pdb
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\taglib-sharp.dll
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\Interop.WMPLib.dll
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.csprojResolveAssemblyReference.cache
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.Form1.resources
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.Guardar.resources
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.Properties.Resources.resources
+C:\Users\Geovany Ocaña\Documents\Visual Studio 2015\Projects\Reproductor02\Reproductor02\obj\Debug\Reproductor02.csproj.GenerateResource.Cache
